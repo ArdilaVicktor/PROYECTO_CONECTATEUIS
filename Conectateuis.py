@@ -1,7 +1,10 @@
 # -----------------------------------------------------------
 # ConectateUIS - Versión corregida 
 # -----------------------------------------------------------
-# Autor: David 
+# Autor: David Santiago Sandoval Mancilla - 2242009
+# Luiggy Ivan Rios Enrique - 2243166
+# Maria Alejandra Hernandez Perez - 2242001
+# Vicktor Josué David Ardila Carreño - 2230266
 # -----------------------------------------------------------
 
 from bigtree import Node, print_tree, plot_tree, findall
@@ -235,3 +238,4 @@ def menu():
 if __name__ == "__main__":
     print(" Bienvenido al sistema de rutas del campus universitario.")
     menu()
+
